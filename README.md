@@ -435,7 +435,8 @@ This project is part of the PLP Africa Week 7 assignment.
 
 ## 👥 Contributors
 
-[Your Name]
+Lethokuhle Mthethwa
+
 
 ---
 
